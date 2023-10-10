@@ -1,6 +1,13 @@
 # 1.0.0 (2023-10-10)
 
 
+### Features
+
+* github actions ([694c8dc](https://github.com/johannawerhahn/backend-trait-jj/commit/694c8dc6d6ed04fd260bd057e07bd7107aae0d4f))
+
+# 1.0.0 (2023-10-10)
+
+
 ### Bug Fixes
 
 * typo in controller ([dfc72e1](https://github.com/lukasnerdware/semantic-release/commit/dfc72e1a69824a43a430202fb64a267f65d1c08f))
